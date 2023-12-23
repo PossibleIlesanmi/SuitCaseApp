@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize the primary color for Material Design components -->
+        <item name="colorPrimary">@color/my_primary_color</item>
+        <!-- Customize the secondary color for Material Design components -->
+        <item name="colorSecondary">@color/my_secondary_color</item>
+    </style>
+
+    <style name="CircularProgressBar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:indeterminate">true</item>
+        <item name="android:indeterminateOnly">true</item>
+    </style>
+</resources>

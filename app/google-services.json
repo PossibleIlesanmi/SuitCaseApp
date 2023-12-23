@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958916254740",
+    "project_id": "angelachioma-4f431",
+    "storage_bucket": "angelachioma-4f431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958916254740:android:34c9be4053ef2cda2f9b01",
+        "android_client_info": {
+          "package_name": "com.angelachioma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi4v-AupkBpeM9OsZ3nP5tKDFbi_KP_Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

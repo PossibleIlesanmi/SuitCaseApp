@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textItemName" type="id" />
+    <item name="textItemDescription" type="id" />
+    <item name="textItemPrice" type="id" />
+    <item name="checkboxItemPurchased" type="id" />
+</resources>
